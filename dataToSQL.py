@@ -13,7 +13,7 @@ import time
 def main():
     clearData = False
     #filePath ='/home/mccolga/weather_station/'
-    filePath = '/Users/Akhil/Desktop/weather_station/'
+    filePath = '/Users/Akhil/Desktop/weather_station-master/'
     pathToData = filePath #change if data is in different location
     
     fileName = 'testData.txt' #name of the data file
